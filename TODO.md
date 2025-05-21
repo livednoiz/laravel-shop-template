@@ -1,8 +1,8 @@
 # ✅ TODO (Project Tasks)
 
 ## 🚧 In Progress
-- [✅] Breeze installieren
-- [✅] Auth-System (Login/Logout/Register)
+- [✔️] Breeze installieren
+- [✔️] Auth-System (Login/Logout/Register)
 
 ## 🗂️ Up Next
 - [ ] Datenmodell "Article"
